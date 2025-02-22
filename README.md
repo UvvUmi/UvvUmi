@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Daniil 👋
 
-<!--
-**UvvUmi/UvvUmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a developer who loves to conceptualize kick-ass project ideas and work on them.
 
-Here are some ideas to get you started:
+- 🗻 Currently focused on getting better at C++, JavaScript and Laravel
+- ⚙️ Source Engine enthusiast
+- 🌐 I speak: 🇺🇸American, 🇷🇺Русский, 🇱🇹Lietuvių, etwas 🇩🇪Deutsch
+- 📫 Reach me at: [formaldaniil@gmail.com](mailto:formaldaniil@gmail.com)
+- 😄 Fun fact: I like cycling and would love to learn to ski someday!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PS. Haruhi superiority
+![Suzumiya Haruhi](https://github.com/UvvUmi/UvvUmi/blob/main/Media/Haruhi.gif)

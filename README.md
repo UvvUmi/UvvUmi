@@ -1,4 +1,4 @@
-# Hello, I'm Daniil 👋
+# Hello, I'm Daniilas 👋
 
 ## About Me
 I'm a developer from Lithuania who loves to conceptualize kick-ass project ideas and work on them.

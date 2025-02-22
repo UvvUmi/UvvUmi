@@ -5,7 +5,7 @@ I'm a developer from Lithuania who loves to conceptualize kick-ass project ideas
 
 - 🗻 Currently focused on getting better at C++, JavaScript and Laravel
 - ⚙️ Source Engine enthusiast
-- 🌐 I speak: 🇺🇸American, 🇷🇺Русский, 🇱🇹Lietuvių, etwas 🇩🇪Deutsch
+- 🌐 I speak: 🇺🇸American, 🇷🇺Русский, 🇱🇹Lietuvių
 - 📫 Reach me at: [formaldaniil@gmail.com](mailto:formaldaniil@gmail.com)
 - 😄 Fun fact: I like cycling and would love to learn to ski someday!
 

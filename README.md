@@ -3,7 +3,7 @@
 ## About Me
 I'm a developer from Lithuania who loves conceptualizing kick-ass project ideas and bringing them to life.
 
-- 🗻 Currently focused on getting better at C++, JavaScript and Laravel
+- 🗻 Currently focused on getting better at C languages, JavaScript and Laravel
 - ⚙️ Source Engine enthusiast
 - 🌐 I speak: 🇺🇸American🦅🦅🦅, 🇷🇺Русский, 🇱🇹Lietuvių
 - 📫 Reach me at: [formaldaniil@gmail.com](mailto:formaldaniil@gmail.com)

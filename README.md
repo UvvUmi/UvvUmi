@@ -8,6 +8,7 @@ I'm a developer from Lithuania who loves conceptualizing kick-ass project ideas 
 - 🌐 I speak: 🇺🇸American🦅🦅🦅, 🇷🇺Русский, 🇱🇹Lietuvių
 - 📫 Reach me at: [formaldaniil@gmail.com](mailto:formaldaniil@gmail.com)
 - 😄 Fun fact: I like 🚴‍♂️cycling and would love to *git gud* at 🎿skiing someday!
+
 2025 current contributions:
 ![Contributions](https://github.com/UvvUmi/UvvUmi/blob/main/Media/currContribs.png)
 

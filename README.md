@@ -4,7 +4,7 @@
 I'm a developer from Lithuania who loves conceptualizing kick-ass project ideas and bringing them to life.
 
 - 🗻 Currently focused on getting better at C languages, JavaScript and Laravel
-- Quite good at Python🐍
+- Quite good with Python(Flask, Selenium etc...)🐍
 - ⚙️ Source Engine enthusiast
 - 🌐 I speak: 🇺🇸American🦅🦅🦅, 🇷🇺Русский, 🇱🇹Lietuvių
 - 📫 Reach me at: [daniilas.github@gmail.com](mailto:daniilas.github@gmail.com)
